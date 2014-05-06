@@ -7,6 +7,11 @@ namespace Numbers
 {
     class Program
     {
+        public static void sum(int a, int b)
+        {
+            Console.Write(a + b);
+        }
+
         static void Main(string[] args)
         {
         }
